@@ -1,6 +1,6 @@
 Warning, you need a Redmi Note 8 Ginkgo and rooted and you will lose all files, system, etc.
 
-click on the link to download: https://drive.google.com/file/d/1oja2kVDYmTsz-PHnKczR5X5nJ6DHVvl0/view?usp=drive_link
+click on the link to download: [https://qiwi.gg/file/9z8A0711-Nethunter](https://qiwi.gg/file/9z8A0711-Nethunter)
 
 Download the file from Google Drive, extract it, and flash the "ProjectSakura.zip" file, and then the "kernel-nethunter.zip" file.
 
