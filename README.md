@@ -8,7 +8,6 @@
 # 📚 Download
 ### 🔥 [Link](https://qiwi.gg/file/9z8A0711-Nethunter)
 ---  
-<br>
 
 ## Tutorial
 Completely format, remove system, data, etc., flash "ProjectSakura.zip", reboot to the system, do the initial settings, reboot to recovery, and flash the "kernel-nethunter.zip" file and the "Magisk-v24.3.apk" file.
