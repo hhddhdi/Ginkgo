@@ -6,7 +6,9 @@
 
 
 # 📚 Download
-### 🔥 [Link](https://qiwi.gg/file/9z8A0711-Nethunter)
+### 📂 Links
+### 🔥 [Qiwi.gg](https://qiwi.gg/file/9z8A0711-Nethunter)
+### 🔥 [Mediafire](https://www.mediafire.com/file/odjtdbbfwx8zi6l/Nethunter.ginko.zip/file)
 ---  
 
 ## Tutorial
