@@ -14,7 +14,7 @@ Completely format, remove system, data, etc., flash "ProjectSakura.zip", reboot 
 
 Open Magisk, in the Magisk gear (settings) activate Zygisk and reboot the device.
 
-open magisk and flash the modules "nethunter.zip" and "wifiNH.zip", in magisk and after finishing restart the device, and if everything goes well open Fdroid to update the apps, nethunter, nethunter terminal, and then open nethunter and see if the first line Team420-GW-Nethunter-Q-1.2 appears in the kernel version, if it appears it means everything went well, if something different appears open the recovery mode again and flash the "kernel-nethunter.zip", restart the system again and see if it appeared in the kernel, now just use the nethunter resources.
+Open magisk and flash the modules "nethunter.zip" and "wifiNH.zip", in magisk and after finishing restart the device, and if everything goes well open Fdroid to update the apps, nethunter, nethunter terminal, and then open nethunter and see if the first line Team420-GW-Nethunter-Q-1.2 appears in the kernel version, if it appears it means everything went well, if something different appears open the recovery mode again and flash the "kernel-nethunter.zip", restart the system again and see if it appeared in the kernel, now just use the nethunter resources.
 
 Remembering that the Redmi Note 8/T8 network card is very bad for network attacks, it has no power to take down or make an Evil Twin, use a wifi adapter to attack, one that is compatible in this list, note: this list is based on the "WifiNh.zip" module:
 
@@ -26,7 +26,7 @@ Ralink - RT2501, RT2501USB, RT2561, RT2561S, RT2571W, RT2600, RT2661, RT2671, RT
 TL-WN722N AWUS036NEH TE-W322U TL-WN722N-V2 Netgear_WN111v2 TL-WN821Nv3 (and many more. Check if your chipset is listed above.)
 
 ---  
-*translated by Google Translate
+*Translated by Google Translate
 ---  
 <br>
 
